@@ -1,0 +1,9 @@
+pandas
+numpy
+google-cloud-bigquery
+google-cloud-bigquery-storage
+google-auth
+google-auth-oauthlib
+google-cloud-core
+pyarrow
+tqdm
