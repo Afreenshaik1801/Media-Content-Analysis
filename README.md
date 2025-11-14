@@ -1,7 +1,3 @@
-Got it! Here's the **entire polished README** in one clean block so you can copy-paste it directly:
-
----
-
 ```markdown
 # 🧠 Media Content Analytics Platform  
 *A Cloud-Native Data Engineering Pipeline for YouTube Analytics*
@@ -238,3 +234,4 @@ Just **select all** from above and paste directly into your README.md file on Gi
 
 If you want me to remove the code block marks (```markdown) for pure markdown text, just say!
 ````
+
