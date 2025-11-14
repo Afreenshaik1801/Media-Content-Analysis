@@ -227,11 +227,3 @@ media-content-analytics/
 * Expand star schema with additional dimensions
 
 ````
-
----
-
-Just **select all** from above and paste directly into your README.md file on GitHub or locally.
-
-If you want me to remove the code block marks (```markdown) for pure markdown text, just say!
-````
-
